@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  Name2: MyText
+  lat2: MyText
+  lon2: MyText
+  Plant2: MyText
+  Pest2: MyText
+  Details2: MyText
+
+two:
+  Name2: MyText
+  lat2: MyText
+  lon2: MyText
+  Plant2: MyText
+  Pest2: MyText
+  Details2: MyText
